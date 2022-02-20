@@ -3,7 +3,7 @@
 **Number of Contest Authored**: `10`
 
 |Contest Name|Date|Contest Link|
-|---|:---:|---|
+|---|:---:|:---:|
 |BSMRSTU Intra University Programming Contest 2019|Dec 7, 2019|[Link](https://www.toph.co/c/bsmrstu-intra-2019)|
 |Replay of BSMRSTU Intra University Programming Contest 2019| Dec 9, 2019|[Link](https://toph.co/c/bsmrstu-intra-2019-r)|
 |BSMRSTU Home Quarantine Contest - 2|May 2, 2020|[Link](https://toph.co/c/bsmrstu-home-quarantine-contest-2)|
